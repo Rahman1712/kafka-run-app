@@ -4,6 +4,10 @@ Welcome to Kafka EasyConnect - a user-friendly tool for easily connecting to Kaf
 
 ## Installation
 
+**Note:** Before installing Kafka EasyConnect, you need to install a specific version of Apache Kafka for reference:
+
+- [Download Apache Kafka 3.4.0](https://archive.apache.org/dist/kafka/3.4.0/kafka_2.12-3.4.0.tgz)
+
 You can download the Kafka EasyConnect software for Windows using the following options:
 
 - [Download .exe Installer](https://www.dropbox.com/scl/fo/86vqucim26hq16tdlqvov/h?rlkey=f46u9l7m79ccf754r7sn3gpvl&dl=0)
