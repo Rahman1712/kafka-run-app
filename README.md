@@ -12,7 +12,8 @@ You can download the Kafka EasyConnect software for Windows using the following 
 **Note:** The software installation requires administrator mode on Windows.
 
 ## Dashboard Preview
-![Kafka EasyConnect Dashboard](dashboard.png)
+<!-- ![Kafka EasyConnect Dashboard](src/kafka_home.jpg) -->
+<img src="src/kafka_home.jpg" alt="Kafka EasyConnect Dashboard" width="300" >
 
 ## Getting Started
 
