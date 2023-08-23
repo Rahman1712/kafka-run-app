@@ -13,10 +13,10 @@ You can download the Kafka EasyConnect software for Windows using the following 
 
 ## Software Preview
 <!-- ![Kafka EasyConnect Dashboard](src/kafka_home.jpg) -->
-<img src="src/kafka_home.jpg" alt="Kafka EasyConnect Dashboard" width="300" >
+<img src="https://imageupload.io/ib/BHTTek4s52b5CvQ_1692781548.jpg" alt="Kafka EasyConnect Dashboard" width="300" > 
 <div style="display: flex; justify-content: space-between;">
-    <img src="src/topic.jpg" alt="Kafka EasyConnect Topic Create" width="300">
-    <img src="src/settings.jpg" alt="Kafka EasyConnect Settings" width="300">
+    <img src="https://imageupload.io/ib/kNEdJG4v2j6dAdi_1692781620.jpg" alt="Kafka EasyConnect Topic Create" width="300">
+    <img src="https://imageupload.io/ib/ePUh6WZmx44osMJ_1692781620.jpg" alt="Kafka EasyConnect Settings" width="300">
 </div>
 
 
